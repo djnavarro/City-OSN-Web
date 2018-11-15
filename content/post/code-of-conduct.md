@@ -1,13 +1,11 @@
 ---
-title: "Interim Code of Conduct"
-author: "SOR steering committee"
-date: "13 November 2018"
-output: html_document
+title: Interim Code of Conduct
+author: ''
+date: '2018-11-15'
+slug: code-of-conduct
+categories: []
+tags: []
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Summary
 
@@ -69,3 +67,4 @@ If a community member engages in unacceptable behaviour, the community organizer
 
 
 This Code is adapted from the Open Source and Feelings and rOpenSci Codes of Conduct.
+

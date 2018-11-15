@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Melbourne Open Science Network</title>
+    <title>Posts on Sydney Open Research Network</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Melbourne Open Science Network</description>
+    <description>Recent content in Posts on Sydney Open Research Network</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Making your open science community</title>
-      <link>/post/making-your-open-science-community/</link>
-      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      <title>Interim Code of Conduct</title>
+      <link>/post/code-of-conduct/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/making-your-open-science-community/</guid>
-      <description></description>
+      <guid>/post/code-of-conduct/</guid>
+      <description>Summary The Sydney Open Research Network (SOR) seeks to promote open practices, and as part of this vision is committed to the provision of a safe, inclusive, welcoming and harassment-free atmosphere to all. All parties to activities associated with the Network are required to be compliant with the code of conduct. If you observe something that you do not feel is consistent with these principles, please report them to the steering committee.</description>
     </item>
     
   </channel>

@@ -6,29 +6,18 @@
     <description>Recent content on Sydney Open Research Network</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Making your open research community</title>
-      <link>/blog/making-your-open-research-community/</link>
-      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      <title>Interim Code of Conduct</title>
+      <link>/post/code-of-conduct/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/making-your-open-research-community/</guid>
-      <description>The object of this network is the propagation of open research practices through local activities. Effectively, an open research community is like a nucleation site around which the snowflake (or pearl, whatever analogy you prefer) of open research develops. This network is like a snow machine (I&amp;rsquo;ve gone mad on analogies but stay with me), optimising the conditions for open practices to develop in your local area.
-To that end, this post intends to lay out how you can promote open research in your place of work and it borrows liberally from Loek Brinkman and Anita Eerland&amp;rsquo;s guide to forming the original Open science Community Utrecht.</description>
-    </item>
-    
-    <item>
-      <title>test Open Research community</title>
-      <link>/portfolio/test/</link>
-      <pubDate>Thu, 12 Jul 2018 16:54:54 +0600</pubDate>
-      
-      <guid>/portfolio/test/</guid>
-      <description>Test Open Research Community Test University is a Place. The open research community at Test is primarily located at the test campus and is eager to know open research advocates in the local area.
-We will be running a weekly &amp;ldquo;open science hacky hour&amp;rdquo; on the test campus, so if you want to learn more about open research, find new ways to open up your work, or just want to meet some new people, let us know and come along.</description>
+      <guid>/post/code-of-conduct/</guid>
+      <description>Summary The Sydney Open Research Network (SOR) seeks to promote open practices, and as part of this vision is committed to the provision of a safe, inclusive, welcoming and harassment-free atmosphere to all. All parties to activities associated with the Network are required to be compliant with the code of conduct. If you observe something that you do not feel is consistent with these principles, please report them to the steering committee.</description>
     </item>
     
   </channel>

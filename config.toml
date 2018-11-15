@@ -33,7 +33,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Site Params
 [params]
     home = "Home"
-    logo = "images/sos-text-small.png"
+    logo = "images/sos-bw-small.png"
     dateFormat = "6 January 2006"
 
     # Banner Section
@@ -46,18 +46,20 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         #btnText = "Download More"
         #btnURL  = "https://themefisher.com/"
         [[params.banner.flipText]]
-            title   = "COMMUNITY"
+            title   = "OPEN SCIENCE"
         [[params.banner.flipText]]
-            title   = "ADVOCACY"
+            title   = "OPEN ACCESS"
         [[params.banner.flipText]]
-            title   = "EDUCATION"
+            title   = "OPEN HUMANITIES"
+        [[params.banner.flipText]]
+            title   = "OPEN EDUCATION"
 
     # Homepage About Section
     [params.about]
         enable  = true
-        title   = "ABOUT THE NETWORK"
-        content = "Open science and open research practices are growing in Australia, but discovering open research can feel like an isolating experience. This is a mechanism to promote open science and open practices in New South Wales, to build a sense of community amongst people who might otherwise feel like the only open researchers they know. <br>We aim to help you find like-minded folks, support efforts to reform institutional policies and practices, and educate others about open research. Follow us on our <a href='https://twitter.com/SydneyOpenSci'>twitter account</a> for updates. Sydney OpenSci is an inclusive and welcoming community by design and to preserve this, SOS activities are subject to our <a href='coc'>Code of Conduct</a>. Please familiarise yourself with it. "
-        image   = "images/about/sos2.png"
+        title   = "ABOUT SYDNEY OPEN RESEARCH"
+        content = "Open science and open research practices are growing in Australia, but discovering open research can feel like an isolating experience. This is a mechanism to promote open science and open practices in New South Wales, to build a sense of community amongst people who might otherwise feel like the only open researchers they know. <br>We aim to help you find like-minded folks, support efforts to reform institutional policies and practices, and educate others about open research. Follow us on our <a href='https://twitter.com/SydneyOpenRes'>twitter account</a> for updates. Sydney OpenRes is an inclusive and welcoming community by design and to preserve this, our activities are subject to our <a href='coc'>Code of Conduct</a>. Please familiarise yourself with it. "
+        image   = "images/about/sos3.png"
 
     # Call to Action
     [params.cta]
@@ -70,7 +72,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # Portfolio Section On Homepage
     [params.portfolio]
         enable  = true
-        title   = "LOCAL COMMUNITIES"
+        title   = "OPEN RESEARCH COMMUNITIES IN SYDNEY"
         subtitle= "Want to find some open science advocates near you? Check out some of our institutional communities."
 
     # Feature Product Section

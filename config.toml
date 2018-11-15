@@ -11,11 +11,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # Navbar Menus
     [[menu.nav]]
         name    = "About"
-        url     = "/about"
+        url     = "/about/"
         weight  = 2
     [[menu.nav]]
         name    = "Code of Conduct"
-        url     = "/post/code-of-conduct"
+        url     = "/post/code-of-conduct/"
         weight  = 3
     #[[menu.nav]]
     #    name    = "Service"
@@ -27,7 +27,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     #    weight  = 4
     [[menu.nav]]
         name    = "Posts"
-        url     = "/post"
+        url     = "/post/"
         weight  = 4
     #[[menu.nav]]
     #    name    = "Contact"

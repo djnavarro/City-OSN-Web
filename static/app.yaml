@@ -38,6 +38,9 @@ handlers:
 - url: /plugins
   static_dir: plugins
 
+- url: /community
+  static_dir: portfolio
+
 - url: /portfolio
   static_dir: portfolio
 

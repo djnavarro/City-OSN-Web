@@ -3,7 +3,7 @@ title: "UNSW CompCogSci"
 type: portfolio
 date: 2018-07-12T16:54:54+06:00
 caption: The UNSW computational cognitive science group, led by  A/Prof Danielle Navarro.
-image: images/portfolio/compcogscisydney-banner-bw.png
+image: images/portfolio/unswccs.png
 category: ["beach","science"]
 liveLink: https://compcogscisydney.org
 client: 

@@ -7,14 +7,16 @@ categories: []
 tags: []
 ---
 
-## Summary
+
 
 The Sydney Open Research Network (SOR) seeks to promote open practices, and as part of this vision is committed to the provision of a safe, inclusive, welcoming and harassment-free atmosphere to all. 
+
 All parties to activities associated with the Network are required to be compliant with the code of conduct.
+
 If you observe something that you do not feel is consistent with these principles, please report them to the steering committee. 
 
- 
-## Full Code and scope
+
+## Full code and scope
 
 All parties to SOR activities are subject to this code of conduct, this includes attendees, speakers, sponsors, and committee members and its provisions apply to both physical and non-physical spaces (e.g. on SOR associated social media platforms).
 
@@ -63,8 +65,6 @@ Unacceptable behaviour from any community member, including sponsors and those w
 Anyone asked to stop unacceptable behaviour is expected to comply immediately.
 
 If a community member engages in unacceptable behaviour, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning.
-
-
 
 This Code is adapted from the Open Source and Feelings and rOpenSci Codes of Conduct.
 

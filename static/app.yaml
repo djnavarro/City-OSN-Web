@@ -39,7 +39,8 @@ handlers:
   static_dir: plugins
 
 - url: /community
-  static_dir: portfolio
+  static_files: portfolio/index.html
+  upload: portfolio/index.html
 
 - url: /portfolio
   static_dir: portfolio

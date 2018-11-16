@@ -2,7 +2,7 @@
 title: "Sydney beaches open science"
 type: portfolio
 date: 2018-07-12T16:54:54+06:00
-caption:
+caption: The Sydney beaches are very lovely, and occasionally open science happens there too.
 image: images/portfolio/sacha-styles-553379-unsplash.jpg
 category: ["beach","science"]
 liveLink: https://example.com

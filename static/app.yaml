@@ -42,6 +42,10 @@ handlers:
   static_files: portfolio/index.html
   upload: portfolio/index.html
 
+- url: /community/
+  static_files: portfolio/index.html
+  upload: portfolio/index.html
+
 - url: /portfolio
   static_dir: portfolio
 

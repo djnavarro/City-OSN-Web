@@ -1,7 +1,8 @@
 enable  : true
 title   : What is the Open Research Network
 description: >
-  The Sydney Open Research Network is a collection of researchers and research-associated workers in Sydney, Australia. It aims to facilitate the growth of open practices by bringing together independently motivated and like-minded people, and providing a platform for the sharing of resources. It is inspired by the <a href="https://openscience-utrecht.com/">Open Science Community Utrecht</a>.
-  The site is adapted from the <a href="https://morn.netlify.com">Melbourne Open Research Network</a> website. The background image on the main page is by <a href="https://unsplash.com/photos/akPUkbdVxgc">Matt Hardy</a> on Unsplash.
+  The Sydney Open Research Network is a collection of researchers and research-associated workers in Sydney, Australia. It aims to facilitate the growth of open practices by bringing together independently motivated and like-minded people, and providing a platform for the sharing of resources. The network is inspired by the <a href="https://openscience-utrecht.com/">Open Science Community Utrecht</a>,
+  and the site is adapted from the <a href="https://morn.netlify.com">Melbourne Open Research Network</a> site. The site is built using <a href="https://bookdown.org/yihui/blogdown/">blogdown<a>, and uses the <a href="https://github.com/themefisher/timer-html">Timer Themefisher</a> theme. The background image on the main page is by <a href="https://unsplash.com/photos/akPUkbdVxgc">Matt Hardy</a>
+  released on Unsplash under a CC0 licence. The site is maintained by <a href="https://compcogscisydney.org/">Danielle Navarro</a>, and hosted through the Google Cloud Platform.
 
 image   : images/about/bg-small.jpg

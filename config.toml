@@ -62,7 +62,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.about]
         enable  = true
         title   = "ABOUT SYDNEY OPEN RESEARCH"
-        content = "Open science and open research practices are growing in Australia, but discovering open research can feel like an isolating experience. This is a mechanism to promote open science and open practices in New South Wales, to build a sense of community amongst people who might otherwise feel like the only open researchers they know. <br>We aim to help you find like-minded folks, support efforts to reform institutional policies and practices, and educate others about open research. Follow us on <a href='https://twitter.com/SydOpenRes'>twitter</a> for updates. Sydney Open Research is an inclusive and welcoming community by design. To preserve this, our activities are subject to our <a href='codeofconduct'>Code of Conduct</a>. Please familiarise yourself with it."
+        content = "Open science and open research practices are growing in Australia, but discovering open research can feel like an isolating experience. This is a mechanism to promote open science and open practices in New South Wales, to build a sense of community amongst people who might otherwise feel like the only open researchers they know. <br>We aim to help you find like-minded folks, support efforts to reform institutional policies and practices, and educate others about open research. Follow us on <a href='https://twitter.com/SydneyOpenRes'>twitter</a> for updates. Sydney Open Research is an inclusive and welcoming community by design. To preserve this, our activities are subject to our <a href='codeofconduct'>Code of Conduct</a>. Please familiarise yourself with it."
         image   = "images/about/sos3.png"
 
     # Call to Action
@@ -77,7 +77,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.portfolio]
         enable  = true
         title   = "OPEN RESEARCH COMMUNITIES IN SYDNEY"
-        subtitle= "Want to find some open science advocates near you? Check out some of our institutional communities."
+        subtitle= "Want to find some friendly open science people near you? Check out some of the communities, research groups, and events in the Sydney region!"
 
     # Feature Product Section
     [params.feature]

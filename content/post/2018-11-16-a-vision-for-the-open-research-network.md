@@ -9,7 +9,7 @@ tags: ["community", "meta"]
 
 # What are the goals of the Open Research Network?
 
-As per the about section, the open research network exists to support the adoption of open research practices. What differs from other approaches is that this is deliberately and explicitly about putting people in contact in the real world, to reduce the barriers to entry, and minimise the risk of alientation that arises from context collapse on social media.
+As per the about section, the open research network exists to support the adoption of open research practices. What differs from other approaches is that this is deliberately and explicitly about putting people in contact in the real world, to reduce the barriers to entry, and minimise the risk of alienation that arises from context collapse on social media.
 
 To that end, it aims to support the proliferation of institutional open science communities, like the successful model of the <a href="https://openscience-utrecht.com/">Open Science Community Utrecht</a>, to provide a welcoming, non-judgemental learning environment at a local level. 
 

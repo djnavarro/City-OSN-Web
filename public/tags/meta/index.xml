@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Sydney Open Research Network</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Sydney Open Research Network</description>
+    <title>Meta on Sydney Open Research Network</title>
+    <link>/tags/meta/</link>
+    <description>Recent content in Meta on Sydney Open Research Network</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/meta/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>/post/a-vision-for-the-open-research-network/</guid>
       <description>What are the goals of the Open Research Network? As per the about section, the open research network exists to support the adoption of open research practices. What differs from other approaches is that this is deliberately and explicitly about putting people in contact in the real world, to reduce the barriers to entry, and minimise the risk of alientation that arises from context collapse on social media.
 To that end, it aims to support the proliferation of institutional open science communities, like the successful model of the Open Science Community Utrecht, to provide a welcoming, non-judgemental learning environment at a local level.</description>
-    </item>
-    
-    <item>
-      <title>Interim Code of Conduct</title>
-      <link>/post/code-of-conduct/</link>
-      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/code-of-conduct/</guid>
-      <description>The Sydney Open Research Network (SOR) seeks to promote open practices, and as part of this vision is committed to the provision of a safe, inclusive, welcoming and harassment-free atmosphere to all.
-All parties to activities associated with the Network are required to be compliant with the code of conduct.
-If you observe something that you do not feel is consistent with these principles, please report them to the steering committee.</description>
     </item>
     
   </channel>

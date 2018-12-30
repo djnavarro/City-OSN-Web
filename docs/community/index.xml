@@ -6,10 +6,19 @@
     <description>Recent content in Communities on Sydney Open Research Network</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Thu, 12 Jul 2018 16:54:54 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 30 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/community/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DH Downunder</title>
+      <link>/community/dhdownunder/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/community/dhdownunder/</guid>
+      <description>DH Downunder DH Downunder is a Digital Humanities / Digital Research Methods Summer Institute in the tradition of DHSI and similar international summer institutes. We provide training in cutting edge Digital Research methods and approaches. People with all kinds of backgrounds are welcome, including students, academic staff, PhD and postdoctoral researchers, librarians and professional staff. The classes have a humanities/social sciences orientation, but we are also very happy to have participants from other disciplinary backgrounds.</description>
+    </item>
     
     <item>
       <title>Sydney Coding Club</title>

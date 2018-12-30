@@ -3,8 +3,8 @@
 Sydney Open Research Network
 ============================
 
-This is the repository with source code for <https://sydneyopenresearch.org>
+This repository has source code for <https://sydneyopenresearch.org>. The site is generated in blogdown using the timer template, and deployed via GitHub pages.
 
-These are intended to support the development of institute specific Open research communities, to provide a safe and welcoming environment in which to promote learning about and adopting open practices.
+The `blogdown` directory contains the entire blogdown site. Like any blogdown site, the generated site appears in the `blogdown/public` subdirectory, which is (deliberately) ignored using the `.gitignore` file. GitHub pages deploys the site from the `docs` directory; to publish the site, simply copy the entire contents of `blogdown/public` to `docs` and then push to GitHub.
 
-The website is built using blogdown, and implements the timer hugo template.
+The reason for setting it up this way is twofold. First, blogdown is quite insistent that the static site be located in the "public" folder, and GitHub is equally insistent on "docs", so this is just a necessity. Second, it also doubles as a convenient way to generate drafts locally (within `blogdown/public`) and then copy to `docs` when you're ready to publish. (Yes you could create a git branch for drafts, but that seems more complex than necessary).

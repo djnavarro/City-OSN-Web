@@ -8,7 +8,7 @@
   </url>
   
   <url>
-    <loc>/post/code-of-conduct/</loc>
+    <loc>/codeofconduct/</loc>
     <lastmod>2018-11-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,22 +28,28 @@
   </url>
   
   <url>
-    <loc>/portfolio/codingclub/</loc>
+    <loc>/community/codingclub/</loc>
     <lastmod>2018-07-12T16:54:54+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/resbaz/</loc>
+    <loc>/community/resbaz/</loc>
     <lastmod>2018-07-12T16:54:54+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/unswcompcogsci/</loc>
+    <loc>/community/unswcompcogsci/</loc>
     <lastmod>2018-07-12T16:54:54+06:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/community/</loc>
+    <lastmod>2018-07-12T16:54:54+06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -56,12 +62,6 @@
   <url>
     <loc>/tags/meta/</loc>
     <lastmod>2018-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/portfolio/</loc>
-    <lastmod>2018-07-12T16:54:54+06:00</lastmod>
     <priority>0</priority>
   </url>
   

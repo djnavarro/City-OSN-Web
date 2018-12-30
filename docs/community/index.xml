@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sydney Open Research Network</title>
-    <link>/</link>
-    <description>Recent content on Sydney Open Research Network</description>
+    <title>Communities on Sydney Open Research Network</title>
+    <link>/community/</link>
+    <description>Recent content in Communities on Sydney Open Research Network</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jul 2018 16:54:54 +0600</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/community/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>A Vision for the Open Research Network</title>
-      <link>/post/a-vision-for-the-open-research-network/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/a-vision-for-the-open-research-network/</guid>
-      <description>What are the goals of the Open Research Network? As per the about section, the open research network exists to support the adoption of open research practices. What differs from other approaches is that this is deliberately and explicitly about putting people in contact in the real world, to reduce the barriers to entry, and minimise the risk of alienation that arises from context collapse on social media.
-To that end, it aims to support the proliferation of institutional open science communities, like the successful model of the Open Science Community Utrecht, to provide a welcoming, non-judgemental learning environment at a local level.</description>
-    </item>
     
     <item>
       <title>Sydney Coding Club</title>

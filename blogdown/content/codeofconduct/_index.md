@@ -1,5 +1,5 @@
 ---
-title: Interim Code of Conduct
+title: Code of Conduct
 date: '2018-11-15'
 ---
 

@@ -3,7 +3,7 @@ title: "DH Downunder"
 type: portfolio
 date: 2018-12-30
 caption: DH Downunder is a Digital Humanities / Digital Research Methods Summer Institute
-image: images/portfolio/dh.jpg
+image: images/portfolio/dhhighres.jpg
 category: ["humanities"]
 liveLink: https://www.westernsydney.edu.au/dhrg/digital_humanities/dh_downunder
 client: 

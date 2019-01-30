@@ -6,10 +6,20 @@
     <description>Recent content in Communities on Sydney Open Research Network</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 30 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/community/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CAPOS</title>
+      <link>/community/capos/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/community/capos/</guid>
+      <description>Canadian-Australian Partnership for Open Scholarship The Canadian-Australian Partnership for Open Scholarship (CAPOS) is a collaboration between Canadian and Australian researchers, policy makers, libraries, computing organizations, research groups, and postsecondary institutions to advance the understanding of, and resolve crucial issues in, the production, distribution, and engagement of open, digital scholarship. CAPOS comprises the INKE Partnership and Australian-based partners.
+This partnership capitalizes on both countries’ positive track records of participating in, engaging, and influencing the international consideration of open, digital scholarship issues.</description>
+    </item>
     
     <item>
       <title>DH Downunder</title>
